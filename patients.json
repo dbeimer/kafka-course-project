@@ -1,0 +1,112 @@
+[
+  {
+    "patient_id": "987654",
+    "name": "Jane Smith",
+    "date_of_birth": "1985-05-12",
+    "gender": "female",
+    "address": {
+      "street": "456 Oak St",
+      "city": "Anytown",
+      "state": "NY",
+      "zip_code": "67890"
+    },
+    "conditions": [
+      {
+        "name": "asthma",
+        "diagnosis_date": "2010-08-01"
+      },
+      {
+        "name": "migraines",
+        "diagnosis_date": "2016-02-01"
+      }
+    ]
+  },
+  {
+    "patient_id": "246810",
+    "name": "David Lee",
+    "date_of_birth": "1978-12-25",
+    "gender": "male",
+    "address": {
+      "street": "789 Maple Ave",
+      "city": "Anytown",
+      "state": "TX",
+      "zip_code": "54321"
+    },
+    "conditions": [
+      {
+        "name": "chronic back pain",
+        "diagnosis_date": "2012-04-01"
+      },
+      {
+        "name": "high cholesterol",
+        "diagnosis_date": "2018-09-01"
+      }
+    ]
+  },
+  {
+    "patient_id": "135791",
+    "name": "Sarah Johnson",
+    "date_of_birth": "1998-07-07",
+    "gender": "female",
+    "address": {
+      "street": "321 Elm St",
+      "city": "Anytown",
+      "state": "IL",
+      "zip_code": "45678"
+    },
+    "conditions": [
+      {
+        "name": "depression",
+        "diagnosis_date": "2017-03-01"
+      },
+      {
+        "name": "anxiety",
+        "diagnosis_date": "2019-05-01"
+      }
+    ]
+  },
+  {
+    "patient_id": "3691215",
+    "name": "Michael Chen",
+    "date_of_birth": "1965-11-20",
+    "gender": "male",
+    "address": {
+      "street": "111 Pine St",
+      "city": "Anytown",
+      "state": "CA",
+      "zip_code": "23456"
+    },
+    "conditions": [
+      {
+        "name": "osteoarthritis",
+        "diagnosis_date": "2013-07-01"
+      },
+      {
+        "name": "type 2 diabetes",
+        "diagnosis_date": "2015-09-01"
+      }
+    ]
+  },
+  {
+    "patient_id": "24681357",
+    "name": "Emily Rodriguez",
+    "date_of_birth": "1980-03-15",
+    "gender": "female",
+    "address": {
+      "street": "777 Oak St",
+      "city": "Anytown",
+      "state": "FL",
+      "zip_code": "34567"
+    },
+    "conditions": [
+      {
+        "name": "seasonal allergies",
+        "diagnosis_date": "2005-04-01"
+      },
+      {
+        "name": "plantar fasciitis",
+        "diagnosis_date": "2018-11-01"
+      }
+    ]
+  }
+]
